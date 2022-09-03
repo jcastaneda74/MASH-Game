@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 40px;
-  color: #fff;
+  color: #E8C41E;
   text-align: center;
 }
 
@@ -32,7 +32,7 @@ h1 {
   background: transparent;
   border: 3px solid #fff;
   border-radius: 6px;
-  color: #fff;
+  color: #E8C41E;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -90,7 +90,7 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #fff;
+  background: #E8C41E;
   border-radius: 6px;
   color: #713e94;
   transition: 1s linear;
