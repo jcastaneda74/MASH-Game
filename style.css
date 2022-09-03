@@ -1,7 +1,7 @@
 /* Body styling */
 body {
-  background: #blueviolet;
-  color: #C93838;
+  background: #377CFB;
+  color: #A7230E;
   font-family: Helvetica, Arial;
   font-size: 40px;
   font-weight: 300;
@@ -30,8 +30,8 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: saddlebrown;
-  border: 3px solid #e8c41e;
-  border-radius: 6px;
+  border: 3px solid #eA7230E;
+  border-radius: 8px;
   color: #C93838;
   cursor: pointer; 
   display: block;
