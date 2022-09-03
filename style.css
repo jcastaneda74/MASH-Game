@@ -1,7 +1,7 @@
 /* Body styling */
 body {
   background: #377CFB;
-  color: #A7230E;
+  color: #FFFFFF;
   font-family: Helvetica, Arial;
   font-size: 40px;
   font-weight: 300;
@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 48px;
-  color: #B12A2A;
+  color: #FFFFFF;
   text-align: center;
 }
 
@@ -29,9 +29,9 @@ h1 {
 
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
-  background: saddlebrown;
-  border: 3px solid #eA7230E;
-  border-radius: 8px;
+  background: FFFFFF;
+  border: 8px solid #eA7230E;
+  border-radius: 4px;
   color: #C93838;
   cursor: pointer; 
   display: block;
@@ -90,9 +90,9 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #E8C41E;
+  background: #FFFFFF;
   border-radius: 6px;
-  color: #713e94;
+  color: #FFFFFF;
   transition: 1s linear;
 }
 
